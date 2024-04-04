@@ -42,6 +42,8 @@ To add:
     * Mini volumetric - [https://youtu.be/HKpBhE7QVAI?si=4uf6Si9HyYOtIBYa](https://youtu.be/HKpBhE7QVAI?si=4uf6Si9HyYOtIBYa)
   * Optical/peppers ghost
     * ASKA3D
+  * Kinetic:
+    * [https://www.fluidreality.com/](https://www.fluidreality.com/)
   * Not sure of category:
     * Pacific Light and Hologram
     * [MicroOLED](https://microoled.net)
