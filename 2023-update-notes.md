@@ -46,8 +46,9 @@ To add:
     * [https://www.fluidreality.com/](https://www.fluidreality.com/)
   * Not sure of category:
     * Pacific Light and Hologram
+    * [KentOptronics Switchable LCD](https://www.youtube.com/watch?v=0DfhrjpF9Gg) transparent mirror and [other products](https://www.kentoptronics.com/transparent.html)
     * [MicroOLED](https://microoled.net)
-    * VividQ
+    * [VividQ](https://www.vividq.com)
     * [Liminal Space](https://patents.google.com/patent/US8542270B2/en)
     * DoMoCo drone: [https://www.docomo.ne.jp/english/info/media\_center/pr/2021/1112\_01.html](https://www.docomo.ne.jp/english/info/media\_center/pr/2021/1112\_01.html)
     * : [https://www.youtube.com/watch?v=CNYp\_R1sriw](https://www.youtube.com/watch?v=CNYp\_R1sriw)
