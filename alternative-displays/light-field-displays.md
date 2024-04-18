@@ -1,35 +1,25 @@
-# Lightfield Displays
+# Light-field Displays
 
-* Looking Glass Displays
 * Light Field Labs Solidlight
-* Leia Displays
+* Avalon Holographics
 * Fovi3D
-* Multi-lens experiments
 * Others
 
-This page showcases a collection of displays that use some other advanced optical techniques (such as lenticular, multilens arrays and other complex marketing terms) to create a sense of depth for a viewer. These displays often market themselves as holograms and holographic displays, but a more accurate term is a lightfield display.
+Light-field displays are a specialized subset of display technologies that offer some unique capabilities over lenticular and multiview displays. They tend to use a lot of individual light elements that are able to cast a dense amount of light rays that will allow you to get a full parallax view of 3D content.&#x20;
 
-{% embed url="https://www.youtube.com/watch?v=PgiyoweaPb4" %}
+Some general things to know about light-field displays:
 
-### Looking Glass Factory Displays
+* They have a lot of specialized optical elements - instead of thinking in pixels, you're thinking more in individual elements that are casting lots of individual rays. Think of it like having dozens or hundreds of individual video projectors pointed towards a viewer, each with their own unique image.
+* Having all of these individual elements often means they need a lot of power, but that doesnt necessarily result in more brightness since the light is so spread out.&#x20;
+* Since they are effectively driving hundreds of projectors, that means the computation required to drive even a small desktop monitor sized panel can be orders of magnitude more pixels than others
+* Due to their ability to guide light in space and modular display element nature, they can theoretically be seamlessly tiled to larger sizes (like LED panels)more easily than LCD screens.
+* Related to all of the above, most of these are for specialized applications (think medical or military) OR incredibly expensive, even in the commercial sense.
 
-[Looking Glass Factory](https://lookingglassfactory.com)
-
-Looking Glass Factory has been a pioneer in lightfield displays for years and has made a number of innovative products in this category. Their differentiator is that a lot of their products are geared towards an average consumer rather than only an expensive commercial market.&#x20;
-
-In very basic, but somewhat unaccurate terms, the display itself uses a very high resolution/high pixel density display and a specialized lenticular film that directs the light into a few dozen different viewing angles. A specialized imaging pipeline takes a 3D scene, slices it up into all of these different views, and puts each one on a thin slice on the display. As that light passes through the lenticular film, it gets refracted into the different angles and allows each of your eyes to see a different view. The effect itself is very convincing and really feels like a floating image is right in front of the display.
-
-Their latest product, the Looking Glass Portrait is a 7.9" lightfield display with a 78º viewing cone an it goes for $399. It's great for small experiments and things like viewing personal portraits.  While it does allow for multiple viewers at the same time, its somewhat small size and narrow viewing cone needs careful consideration if it is to be used for an installation project.
-
-{% embed url="https://www.youtube.com/watch?v=4pJxdNRA1CM" %}
-
-Looking Glass Factory does offer 2 other more commercially oriented versions for large scale displays, but the price point is a large leap. They have a 4K Gen 2 display for around $3000 that is about 15.6" diagonally. Their 8K Gen2 Display is $20000 and about 32" on the diagonal. As the displays get larger, they need to pack even more pixels into the display to create the same vokumetric visual effect. This creates more and more overhead for rendering as well, but it will be interesting to see where this kind of technology goes as resolution density continues to evolve.
-
-Below is an overview of Looking Glass's previous product that utilzied somewhat similar technology but had a large slab of acrylic on top of the display that felt like a volume that contained the image. The newer version feels like an image you can touch.
-
-{% embed url="https://www.youtube.com/watch?v=htFotQi_-jY" %}
+They are incredibly impressive displays that can promise true depth and making an image float out in space, but they are still very early in their journey to be commercially viable. Very few of them have been demonstrated publically, but in the next few years there will probably be more and more of them appearing.
 
 ### Light Field Labs Solidlight Display
+
+[Light Field Lab](https://lightfieldlab.com)
 
 {% embed url="https://vimeo.com/622893790" %}
 [https://www.lightfieldlab.com/press-release-oct-2021](https://www.lightfieldlab.com/press-release-oct-2021)
@@ -53,33 +43,20 @@ Here is the [closest to a more complete description](https://www.ibc.org/feature
 
 To put 2.5 Billion pixels in context: a standard 4K display is 3840x2160 which comes out to 8,294,400 pixels, and an 8K display is 33,177,600 pixels. So packing 2.5 billion pixels into a 28" panel (if that is truly what they are doing) is an incredibly dense display.
 
-### Leia Lightfield Display
 
-[Leia Lightfield Tablet Display](https://www.leiainc.com)
-
-{% embed url="https://youtu.be/J2rGNRhNkTA" %}
-Leia Lumepad
-{% endembed %}
-
-Leia Lightfield Displays are another commercially available product in the form of an android tablet that promises a lightfield experience. They use a specialized diffractive backlight technology that essentially delivers different viewing angles to each eye to create a sense of depth. More on the scientific approach in the video below.
-
-Also more writing on the technology itself [here](https://www.leiainc.com/newsroom/leia-brings-3d-lightfield-to-a-monitor-near-you).
-
-Here is a [whitepaper on the technology as well](https://www.nature.com/articles/nature11972).
-
-Leia may be working on an updated display from their tablet as well - a sample video of it is featured [here](https://twitter.com/nimazeighami/status/1524853044734664705?s=21).
-
-{% embed url="https://www.youtube.com/watch?v=-I9namlza4U" %}
-Leia 3D Display operating principles
-{% endembed %}
 
 ### Fovi3D
 
-[Fovi3D](https://www.fovi3d.com/activehogel) is another unreleased experimental technology using microLED displays and a lot of other custom electronics to create a sense of depth.
+[Fovi3D](https://www.fovi3d.com/activehogel) is another unreleased experimental technology using microLED displays, spatial light modulators and a lot of other custom electronics, software and optics to create a sense of depth.
 
 > FoVI3D’s ActiveHogel™ is a frameless, tileable, spatial light modulator designed to accommodate large format light-field displays (LfD).
 
 {% embed url="https://www.youtube.com/watch?v=J-ImjtBFa0w" %}
+
+Further resources from FoVi
+
+* [https://github.com/TLBurnett3/LightField](https://github.com/TLBurnett3/LightField) - Tools for evaluating light-field radiance images
+* [2019 Technical Deep dive PDF](https://www.arch.tamu.edu/app/uploads/2021/10/FoVI3D\_DeepDrive.pdf) on light-field imaging
 
 ### Multi Lens Display
 
@@ -93,12 +70,3 @@ A similar[ experiment from NVIDIA](https://research.nvidia.com/publication/2017-
 
 Related to the multi-lens experiments above, take a look at the [Misapplied Science's Parallel Reality LED display](../experimental-other/other-experiments.md#parallel-reality-display) that uses similar principles.
 
-### Other
-
-Some of these aren't strictly lightfield displays and might be better suited in other areas, but I'll list them here anyway
-
-* [ASKA-3D](https://aska3d.com/en/technology.html)
-  * The ASKA-3D material allows for some optical trickery to allow an LCD image to float in front with some limited viewing angles of effectiveness
-  * DIY video of material: [https://www.youtube.com/watch?v=cAEQ8pMc3pQ](https://www.youtube.com/watch?v=cAEQ8pMc3pQ)
-  * Distributer video: [https://www.youtube.com/watch?v=A-MMbHAX\_pw](https://www.youtube.com/watch?v=A-MMbHAX\_pw)
-  * Show floor video of a large scale implementation: [https://www.youtube.com/watch?v=NBLBHZ9W4K0](https://www.youtube.com/watch?v=NBLBHZ9W4K0)

@@ -20,7 +20,8 @@
 * [Electronic Paper/E-Ink](alternative-displays/electronic-paper-e-ink.md)
 * [Flexible Displays](alternative-displays/flexible-displays.md)
 * [Lasers and Laser Projectors](alternative-displays/laser-projectors.md)
-* [Lightfield Displays](alternative-displays/light-field-displays.md)
+* [Lenticular and Multiview Displays](alternative-displays/lenticular-and-multiview-displays.md)
+* [Light-field Displays](alternative-displays/light-field-displays.md)
 * [Head Mounted Displays](alternative-displays/head-mounted-displays.md)
 
 ## Techniques
