@@ -43,7 +43,17 @@ Here is the [closest to a more complete description](https://www.ibc.org/feature
 
 To put 2.5 Billion pixels in context: a standard 4K display is 3840x2160 which comes out to 8,294,400 pixels, and an 8K display is 33,177,600 pixels. So packing 2.5 billion pixels into a 28" panel (if that is truly what they are doing) is an incredibly dense display.
 
+### Avalon Holographics
 
+{% embed url="https://www.youtube.com/watch?v=eeMJGEoP9S4" %}
+Avalon Holographics display visualization
+{% endembed %}
+
+Avalon Holographics is a canadian company that produces light field displays primarily for medical and military applications. They have a couple different displays -  a 40" holographic display table and a no-longer-sold [29" display](https://www.avalonholographics.com/productsnew) that is more like a traditional monitor.
+
+From their website, their 40" NOVAC display has some of the following specs: 5 Billion rays of light, equivalent to 2500 HD TV's, 6700W power requirement, horizontal and vertical parallax, and support for game engine input - all in a slim 930lb package.&#x20;
+
+Not much else is public about how Avalon works, but they do have a series of [video talks](https://www.youtube.com/watch?v=0aPDxjW3SG8) that do help give some more perspective on how their tech might be working.
 
 ### Fovi3D
 
@@ -57,16 +67,4 @@ Further resources from FoVi
 
 * [https://github.com/TLBurnett3/LightField](https://github.com/TLBurnett3/LightField) - Tools for evaluating light-field radiance images
 * [2019 Technical Deep dive PDF](https://www.arch.tamu.edu/app/uploads/2021/10/FoVI3D\_DeepDrive.pdf) on light-field imaging
-
-### Multi Lens Display
-
-I'm not sure if this truly fits in the light field category, but it feels close enough in operating principle. This experiment from around 2010 by [Hideki Kakeya](https://opg.optica.org/oe/fulltext.cfm?uri=oe-20-23-25902\&id=244861) utilizes a display that shows multiple angles of some 3D content and an array of microlenses to provide multiple glasses-free angles of that content. [More information here](https://scholar.google.co.jp/citations?user=o8t3EQgAAAAJ\&hl=en).
-
-{% embed url="https://youtu.be/xLWf2P6d8cg" %}
-
-A similar[ experiment from NVIDIA](https://research.nvidia.com/publication/2017-11\_near-eye-light-field-holographic-rendering-spherical-waves-wide-field-view) is below:
-
-{% embed url="https://www.youtube.com/watch?v=NdTycenXID8" %}
-
-Related to the multi-lens experiments above, take a look at the [Misapplied Science's Parallel Reality LED display](../experimental-other/other-experiments.md#parallel-reality-display) that uses similar principles.
 

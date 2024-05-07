@@ -7,12 +7,13 @@
 * Misapplied Sciences
 * SeeCubic
 * Multi-lens experiments
+* Other
 
 This is another wide reaching category that could be classified under a few different names. I previously categorized some of these under lightfield displays, but this category tends to use a different approach.
 
 
 
-### Looking Glass Factory Displays
+## Looking Glass Factory Displays
 
 [Looking Glass Factory](https://lookingglassfactory.com)
 
@@ -78,5 +79,12 @@ A similar[ experiment from NVIDIA](https://research.nvidia.com/publication/2017-
 
 {% embed url="https://www.youtube.com/watch?v=NdTycenXID8" %}
 
+### Other Links:
 
+JDI is a Japanese display company that has a wide range of interesting displays, but most don't seem available to consumers or for small scale purchases - they are primarily geared towards commercial large volume applications. Nonetheless, they do have a wide range of interesting displays that are likely lenticular and not true light fields: [https://www.j-display.com/en/product\_tech/light\_field.html](https://www.j-display.com/en/product\_tech/light\_field.html)
 
+This 25min video has a number of these displays shown in it:
+
+{% embed url="https://www.youtube.com/watch?v=DCRWjV2u0As" %}
+
+See also - the [BOE 16K 32" Display ](https://www.youtube.com/watch?v=\_dzkJfvQ9i8)within this long video

@@ -9,7 +9,6 @@ description: This is an overview of everything that is covered in the following 
   * [LCD/Standard displays](standard-displays/standard-displays-overview.md)
   * [LED](standard-displays/led.md)
   * [Projector](standard-displays/projector.md)
-  * [OLED](broken-reference)
 * **Displays**
   * [Transparent](alternative-displays/transparent.md)
     * [Transparent LCD](alternative-displays/transparent.md#5018)
@@ -35,12 +34,18 @@ description: This is an overview of everything that is covered in the following 
     * [Laser Projectors and film techniques](outline.md#laser-projector-filming-techniques)
     * [Laser Diodes and other approaches](outline.md#laser-diodes-and-other-uses-of-lasers)
     * [Lasers and photosensitive surfaces](outline.md#lasers-and-photosensitive-surfaces)
+  * [Lenticular and Multiview Displays](alternative-displays/lenticular-and-multiview-displays.md)
+    * Looking Glass Displays
+    * Leia/Dimenco
+    * Sony Spatial Reality
+    * RealFiction
+    * Misapplied Sciences
+    * SeeCubic
+    * Multi-lens experiments
   * [Light Field displays](alternative-displays/light-field-displays.md)
-    * [Looking Glass](alternative-displays/light-field-displays.md#looking-glass-factory-displays)
     * [Solidlight](alternative-displays/light-field-displays.md#light-field-labs-solidlight-display)
-    * [Leia Lightfield](alternative-displays/light-field-displays.md#leia-lightfield-display)
+    * Avalon Holographics
     * [Fovi3d](alternative-displays/light-field-displays.md#fovi3d)
-    * [Multilens Displays](alternative-displays/light-field-displays.md#multi-lens-display)
   * [Head Mounted Displays (VR/AR/Mixed Reality)](alternative-displays/head-mounted-displays.md)
 * **Techniques:**
   * [Pepper’s Ghost](techniques/peppers-ghost.md)

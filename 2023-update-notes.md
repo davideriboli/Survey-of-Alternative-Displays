@@ -9,8 +9,8 @@ description: >-
 To add:
 
 * Recategorize:
-  * Need to change Lightfield category to capture things like autostereoscopic lenticular and multiview. Need to move Looking Glass
-  * Might need to update "Volumetric" to be things like swept volume
+  * ✅Need to change Lightfield category to capture things like autostereoscopic lenticular and multiview. Need to move Looking Glass
+  * ✅Might need to update "Volumetric" to be things like swept volume
 * Add sections on:
   * What is a "display"?
   * How do I find the right kind of display for my use case? What environmental factors make some displays a better use than others? Perhaps a display matrix with different conditions that are highlighted?
