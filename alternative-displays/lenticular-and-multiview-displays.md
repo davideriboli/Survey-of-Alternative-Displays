@@ -69,13 +69,25 @@ I have seen this display in person and it is quite sharp and nice looking when y
 
 
 
-### To Add: SeeCubic
+### SeeCubic
 
-\-
+[SeeCubic](https://www.seecubic.com) is a display company that has a slightly different lenticular and depth approach than some of the others on this page. They offer a range of different displays and optical applications as well as a software tool to convert a range of media to be suitable for depth displays. A lot of their technology seems to be more geared towards integration in other commercial displays that would then be sold to consumers vs directly used from Seecubic themselves. Unfortunately there aren't a ton of videos that feature their content out there just yet, but they have been around for a while.
 
-### To Add: Misapplied Sciences
+### Misapplied Sciences
 
-This one is a tricky one for me because its somewhat like a light field display mentioned in the next section, but is treated a bit more like a multiview experience.  [Misapplied Science's Parallel Reality LED display](../experimental-other/other-experiments.md#parallel-reality-display)&#x20;
+This one is a tricky one for me because its somewhat like a light field display mentioned in the following but is treated a bit more like a multiview experience.&#x20;
+
+The company [Misapplied Sciences](https://www.misappliedsciences.com/home/technology.html) has developed a concept of a Parallel Reality Display that promises the ability to display different pixels to different viewers (in very simplified terms).
+
+> #### These pixels can simultaneously project up to millions of light rays of different colors and brightness. Each ray can then be software-directed to a specific person.
+
+[Here is a link to a long talk](https://www.youtube.com/watch?v=p1b3wEsFlCY\&t=1210s) from one of the developers of this technology that delves into a bit more detail - the short version is that it uses a dense series of pico projectors, lens elements and FPGA's to beam images to specific locations in space. Below is a demonstration of what 12 different viewpoints could look like to different viewers from a single display.
+
+{% embed url="https://www.youtube.com/watch?v=ptXTSuMkuvA" %}
+Misapplied Sciences Parallel Reality Display
+{% endembed %}
+
+Misapplied Sciences has launched [one large display ](https://www.youtube.com/watch?v=vwRO16n7hVA)in an airport terminal that uses tracking technology to beam travel info to specific users.
 
 ### Multi Lens Display
 
