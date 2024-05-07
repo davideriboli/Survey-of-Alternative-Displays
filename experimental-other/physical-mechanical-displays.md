@@ -2,6 +2,7 @@
 
 * Flip-dot
 * Split Flap
+* Mechanical LED
 * Other Mechanical Approaches
 * Interactive Haptic
 * Ferrofluid
@@ -28,7 +29,21 @@ Split flap displays are similar to flip-dot displays in their electromechanical 
 
 While these have mostly fallen out of fashion for their limited ability to update, there are a few sources out there for custom Split flap displays, such at [Oat Foundry](https://www.oatfoundry.com). Oat Foundry offers some standard sized Split Flap displays that can be updated with text and images using a basic API. They also offer some custom options with their Picture Flap that allows for custom images to be set on their existing designs and flipped through as well
 
+### Mechanical LED
 
+{% embed url="https://www.youtube.com/watch?v=19l453Vj_60" %}
+PJ Link Wave Display
+{% endembed %}
+
+The company [PJ-Link](http://www.pj-link.com/) has a mechanical LED solution that combines an LED video wall panel with a robotic moving element that pushes and pulls out from the screen (Also worth nothing that PJ Link is the same name as a projector communication prototcol, but unrelated). There may be other manufacturers
+
+&#x20;of a similar technology, but most of the common examples seem to come from this company. At one point a similar technology was installed in Times Square but it wasn't there for very long.\
+\
+PJ Link also has other mechanical displays that fold, rotate, and slide.
+
+{% embed url="https://www.youtube.com/watch?v=7iUdFw9WfrU" %}
+Robotic LED billboard for Coke by Radius Displays
+{% endembed %}
 
 ### Other Mechanical Displays
 
@@ -60,10 +75,6 @@ Augmentl's Morph TE
 
 {% embed url="https://vimeo.com/318471326" %}
 EQ Teaser from wirmachenbunt [https://www.wirmachenbunt.de/work/eqteaser](https://www.wirmachenbunt.de/work/eqteaser)
-{% endembed %}
-
-{% embed url="https://www.youtube.com/watch?v=7iUdFw9WfrU" %}
-Robotic LED billboard for Coke by Radius Displays
 {% endembed %}
 
 See also:

@@ -25,8 +25,8 @@ To add:
     * Carbon Black
   * ✅ Multiview:
     * Real Fiction Multiview
-  * Experimental:
-    * SWave
+  * Head Mounted displays
+    * SWave (could also be considered experimental)
   * Kinetic:
     * PJ-Link 3D LED TV Display - actuated LED panels&#x20;
   * ✅ Autostereoscopic

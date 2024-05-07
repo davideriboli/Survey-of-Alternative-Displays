@@ -20,6 +20,14 @@ Upcoming advances for VR and AR are in areas like creating [varifocal displays](
 
 
 
+See also:
+
+### SWave Photonics
+
+[Swave Photonics](https://swave.io) - they have a small holographic chip that they hope can be utilized in AR glasses and other areas for creating true holographic still and dynamic images
+
+
+
 Other Links:
 
 * [TV Helmet](https://www.vintag.es/2019/05/tv-helmet-by-walter-pichler.html)
