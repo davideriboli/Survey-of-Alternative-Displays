@@ -9,8 +9,8 @@ description: >-
 To add:
 
 * Recategorize:
-  * ✅Need to change Lightfield category to capture things like autostereoscopic lenticular and multiview. Need to move Looking Glass
-  * ✅Might need to update "Volumetric" to be things like swept volume
+  * ✅ Need to change Lightfield category to capture things like autostereoscopic lenticular and multiview. Need to move Looking Glass
+  * ✅ Might need to update "Volumetric" to be things like swept volume
 * Add sections on:
   * What is a "display"?
   * How do I find the right kind of display for my use case? What environmental factors make some displays a better use than others? Perhaps a display matrix with different conditions that are highlighted?
@@ -19,29 +19,29 @@ To add:
   * What are qualities of an ideal display?
   * What is the promise of a holographic display?
 * Displays or companies to add:
-  * JDI 8K Light Field Display from 2019
-  * Projection Scrim:
+  * ✅ JDI 8K Light Field Display from 2019
+  * ✅ Projection Scrim:
     * Hologauze
     * Carbon Black
-  * Multiview:
+  * ✅ Multiview:
     * Real Fiction Multiview
   * Experimental:
     * SWave
   * Kinetic:
     * PJ-Link 3D LED TV Display - actuated LED panels&#x20;
-  * Autostereoscopic
-    * Seecubic
+  * ✅ Autostereoscopic
+    * ✅ Seecubic
     * Lightspace Technologies
-    * Sony Spatial Reality
-    * Dimenco (Leia?)
-  * Light Field or Field of Light Displays:
-    * Avalon Holographics
+    * ✅ Sony Spatial Reality
+    * ✅ Dimenco (Leia?)
+  * ✅ Light Field or Field of Light Displays:
+    * ✅ Avalon Holographics
   * Swept Volume
     * USC Multiview with 72 projectors, USC rotating display
     * [USC Rotating Display](https://www.youtube.com/watch?v=8gvPS1m40gw\&t=55s)
     * Mini volumetric - [https://youtu.be/HKpBhE7QVAI?si=4uf6Si9HyYOtIBYa](https://youtu.be/HKpBhE7QVAI?si=4uf6Si9HyYOtIBYa)
   * Optical/peppers ghost
-    * ASKA3D
+    * ✅ ASKA3D
   * Kinetic:
     * [https://www.fluidreality.com/](https://www.fluidreality.com/)
   * Not sure of category:

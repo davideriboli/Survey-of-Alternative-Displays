@@ -30,11 +30,13 @@ Peppers ghost is still very much a 2D effect and does not present an image in th
 
 See also:
 
+### ASKA Glass
+
 [ASKA-3D](https://aska3d.com/en/technology.html)
 
 * The ASKA-3D material allows for some optical trickery to allow an LCD image to float in front with some limited viewing angles of effectiveness. It is almost like a reverse pepper's ghost
 * It is incredibly hard to realistically film because you need the stereo depth cues to see it properly.
 * DIY video of material: [https://www.youtube.com/watch?v=cAEQ8pMc3pQ](https://www.youtube.com/watch?v=cAEQ8pMc3pQ)
-* Distributer video: [https://www.youtube.com/watch?v=A-MMbHAX\_pw](https://www.youtube.com/watch?v=A-MMbHAX\_pw)
+* Distributor video: [https://www.youtube.com/watch?v=A-MMbHAX\_pw](https://www.youtube.com/watch?v=A-MMbHAX\_pw)
 * Show floor video of a large scale implementation: [https://www.youtube.com/watch?v=NBLBHZ9W4K0](https://www.youtube.com/watch?v=NBLBHZ9W4K0)
 
