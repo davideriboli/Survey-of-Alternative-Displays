@@ -53,13 +53,21 @@ Leia 3D Display operating principles
 
 [Leia also acquired Dimenco in 2023](https://www.leiainc.com/newsroom/leia-inc-acquires-dimenco-unifying-global-leaders-in-3d-display-technology), and they were another autostereoscopic manufacturer with a slightly different approach.
 
-### To Add: Sony Spatial Reality
+### Sony Spatial Reality
 
-\-
+Sony has released a couple displays that allow for single user 3D viewing. They have a \~15" model (ELF-SR1) and a larger 27" (ELF-SR2) that allow for glasses free 3D. It achieves this by utilizing a lenticular overlay on top of a 4K screen and then applies facial/eye tracking to send 2 different views to the correct eye. The facial tracking also allows for a sense of full horizontal and vertical parallax because it can move a 3D scene relative to your eyes and essentially expand the viewable area.
 
-### To Add: RealFiction
+I have seen this display in person and it is quite sharp and nice looking when you're in the right position.&#x20;
 
-\-
+{% embed url="https://www.youtube.com/watch?v=GM5F7QdoZig" %}
+
+### RealFiction
+
+[Realfiction](https://www.realfiction.com) has a number of technologies and capabilities that allow for a unique approach to multiview displays. According to the video below, they use a very fast ferroelectric liquid crystal element to display time-multiplexed images with no loss in spatial resolution (an important distinction lain comparison with other lenticular multiview technology on this page that does ultimately reduce spatial resolution to allow for more views. They achieve this by synchronizing the overlay with the displayand showing different images per view. They have public demos that show their [Directional Pixel Technology](https://www.youtube.com/watch?v=Kn6Onqk\_N0s) working for microLED and LCD displays as well as eye tracking capbilities that allow for stereoscopic views.
+
+{% embed url="https://www.youtube.com/watch?v=ETZ62SeLawY" %}
+
+
 
 ### To Add: SeeCubic
 
