@@ -1,8 +1,10 @@
 # Volumetric Projection
 
-## Volumetric Projection <a href="#ca28" id="ca28"></a>
+### Volumetric Projection <a href="#ca28" id="ca28"></a>
 
-{% embed url="https://vimeo.com/129862202?embedded=true&owner=712022&source=video_title" %}
+{% embed url="https://vimeo.com/218354021" %}
+Kimchi and Chips - Light Barrier (Third Edition)
+{% endembed %}
 
 Volumetric projection is a technique that is a much more technical application of projecting into a thin sheet of fog. Instead of having light come from a single point, it uses multiple light sources or specialized optics. By combining these sources with the additive quality of projected light, this technique is able to create dimensional images with multiple viewing angles. There are a few scientific papers out there on similar [processes](http://mrl.nyu.edu/\~perlin/holodust/), and we’ll discuss laser plasma displays later on that share some characteristics.
 

@@ -107,4 +107,7 @@ This 25min video has a number of these displays shown in it:
 
 {% embed url="https://www.youtube.com/watch?v=DCRWjV2u0As" %}
 
-See also - the [BOE 16K 32" Display ](https://www.youtube.com/watch?v=\_dzkJfvQ9i8)within this long video
+See also:
+
+* &#x20;The [BOE 16K 32" Display ](https://www.youtube.com/watch?v=\_dzkJfvQ9i8)within this long video
+* This [USC Example that uses 72 projectors](https://youtu.be/PjP4SvHjkdo?si=VuDQozc-bn6b1jF0) on a diffuser to provide a multiview&#x20;

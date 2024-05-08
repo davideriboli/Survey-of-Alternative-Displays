@@ -7,7 +7,7 @@ There are many types of volumetric displays and various ways we could classify t
 * [Volumetric LED](volumetric.md#volumetric-led)
 * [DIY](volumetric.md#undefined)
 
-## Volumetric Displays (Mechanical/Persistence of Vision) <a href="#2929" id="2929"></a>
+## Volumetric Displays (Mechanical/Persistence of Vision) <a href="#id-2929" id="id-2929"></a>
 
 
 
@@ -17,7 +17,7 @@ viSio Volumetric Swept Volume Display — [Source](https://www.youtube.com/watch
 
 With [Volumetric Displays](https://en.wikipedia.org/wiki/Volumetric\_display), there are a couple different flavors, and in this section we’ll cover displays that work with the principle of persistence of vision, and are also known as swept volume displays. Volumetric Displays have been discussed in science fiction for decades and have been researched extensively since the 1960’s. [Here](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5213672) is a 1969 paper from Bell Labs on a technique that uses a loudspeaker to vibrate a reflective mylar sheet in sync with a CRT to make an image volume.
 
-This type of volumetric display usually uses a 2D display element in addition to a mechanical apparatus to move the display quickly enough (either laterally or radially) to give the illusion of volume. You can buy persistence of vision (POV) LED toys at carnivals and festivals that are the same basic idea that is found in the more complex setups discussed below. Crayola even made a toy a few years ago called the [Digital Light Designer](https://www.youtube.com/watch?v=WrQd4UrT6qk) that let kids draw on one of these displays in real time. There are also more sophisticated LED based setups such as the [viSio](http://maxmali.com/visio/)or [voLumen](http://maxmali.com/volumen/) that are mentioned in the links section.
+This type of volumetric display usually uses a 2D display element in addition to a mechanical apparatus to move the display quickly enough (either laterally or radially) to give the illusion of volume. You can buy persistence of vision (POV) LED toys at carnivals and festivals that are the same basic idea that is found in the more complex setups discussed below. Crayola even made a toy a few years ago called the [Digital Light Designer](https://www.youtube.com/watch?v=WrQd4UrT6qk) that let kids draw on one of these displays in real time. There are also more sophisticated LED based setups such as the [viSio](http://maxmali.com/visio/) or [voLumen](http://maxmali.com/volumen/) that are mentioned in the links section.
 
 These volumetric displays allow for one of the best impressions of 3D physicality and presence because the viewer can walk around and view different angles of the same image. The downside is that their mechanical nature makes them difficult to scale to larger displays with finer resolution, and the fact that they are moving so quickly can make them quite dangerous in certain situations. Some techniques can also be difficult to capture reliably or smoothly on video because the refresh rate may be out of sync with the camera’s frame rate.
 
@@ -50,6 +50,12 @@ Another more articially focused example of a mechanical volumetric display is Be
 {% embed url="https://vimeo.com/74735651" %}
 [https://vimeo.com/74735651](https://vimeo.com/74735651)
 {% endembed %}
+
+Other Swept Volume Displays
+
+* [USC Rotating Display](https://www.youtube.com/watch?v=8gvPS1m40gw\&t=55s)
+* [Mini Swept Volume display](https://youtu.be/HKpBhE7QVAI?si=4uf6Si9HyYOtIBYa)
+* DIY [Volumetric display](https://www.youtube.com/watch?v=V53ICnJzi94) that utilizes 3D printed parts and a Raspberry Pi
 
 ## Volumetric Displays (Multiple Layered Screens) <a href="#c28e" id="c28e"></a>
 

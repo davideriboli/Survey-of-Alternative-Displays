@@ -21,14 +21,15 @@ To add:
 * Displays or companies to add:
   * ✅ JDI 8K Light Field Display from 2019
   * ✅ Projection Scrim:
-    * Hologauze
-    * Carbon Black
+    * ✅ Hologauze
+    * ✅ Carbon Black
   * ✅ Multiview:
-    * Real Fiction Multiview
+    * ✅ Real Fiction Multiview
+    * ✅ USC Multiview with 72 projectors
   * Head Mounted displays
-    * SWave (could also be considered experimental)
+    * ✅ SWave (could also be considered experimental)
   * Kinetic:
-    * PJ-Link 3D LED TV Display - actuated LED panels&#x20;
+    * ✅ PJ-Link 3D LED TV Display - actuated LED panels&#x20;
   * ✅ Autostereoscopic
     * ✅ Seecubic
     * Lightspace Technologies
@@ -37,9 +38,8 @@ To add:
   * ✅ Light Field or Field of Light Displays:
     * ✅ Avalon Holographics
   * Swept Volume
-    * USC Multiview with 72 projectors, USC rotating display
-    * [USC Rotating Display](https://www.youtube.com/watch?v=8gvPS1m40gw\&t=55s)
-    * Mini volumetric - [https://youtu.be/HKpBhE7QVAI?si=4uf6Si9HyYOtIBYa](https://youtu.be/HKpBhE7QVAI?si=4uf6Si9HyYOtIBYa)
+    * ✅[USC Rotating Display](https://www.youtube.com/watch?v=8gvPS1m40gw\&t=55s)
+    * ✅Mini volumetric - [https://youtu.be/HKpBhE7QVAI?si=4uf6Si9HyYOtIBYa](https://youtu.be/HKpBhE7QVAI?si=4uf6Si9HyYOtIBYa)
   * Optical/peppers ghost
     * ✅ ASKA3D
   * Kinetic:
@@ -56,12 +56,12 @@ To add:
     * Wayfinding leds: [https://www.youtube.com/shorts/\_tWAruYoVHc](https://www.youtube.com/shorts/\_tWAruYoVHc)
     * Mechanical overview: [https://www.youtube.com/watch?v=Swt6U6aD2OY](https://www.youtube.com/watch?v=Swt6U6aD2OY)
 * Added:
-  * JDI  Rælclear to transparent LCD section
-  * Transparent OLED with black pixels [https://www.flatpanelshd.com/news.php?subaction=showfull\&id=1673336078](https://www.flatpanelshd.com/news.php?subaction=showfull\&id=1673336078)
-  * Nixie tubes to vintage area?
-  * UV activated materials (photochromic pigments and paints) to light activated surfaces
+  * ✅JDI  Rælclear to transparent LCD section
+  * ✅Transparent OLED with black pixels [https://www.flatpanelshd.com/news.php?subaction=showfull\&id=1673336078](https://www.flatpanelshd.com/news.php?subaction=showfull\&id=1673336078)
+  * ✅Nixie tubes to vintage area?
+  * ✅UV activated materials (photochromic pigments and paints) to light activated surfaces
   * ✅Rollable LG tv to flexible displays
   * ✅Royole Flexible tree display and flexible panels - https://global.royole.com/us/rotree
   * ✅Hologauze, Holonet, and Carbon Black to Transparent Projection
   * ✅One Plane Displays or projection displays: [https://www.industrialalchemy.org/articleview.php?item=511](https://www.industrialalchemy.org/articleview.php?item=511)
-  * Stacked RGB pixels: [https://news.mit.edu/2023/vertical-stacked-color-microscopic-leds-0201](https://news.mit.edu/2023/vertical-stacked-color-microscopic-leds-0201)
+  * ✅Stacked RGB pixels: [https://news.mit.edu/2023/vertical-stacked-color-microscopic-leds-0201](https://news.mit.edu/2023/vertical-stacked-color-microscopic-leds-0201)

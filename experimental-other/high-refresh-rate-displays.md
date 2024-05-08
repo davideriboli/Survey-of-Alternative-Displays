@@ -16,3 +16,11 @@ Some refresh rate comparisons on a 390hz display:
 Acer Nitro 390hz display
 {% endembed %}
 
+### High Speed Projection
+
+There aren't really commercially available examples of these kinds of tools, but they allow for a lot of interesting capabilities when it comes to real-time projection mapping and volumetric displays.  One of the leading research groups looking at this stuff is the Watanabe Latent Sense Lab in Japan. They have a number of resources on their highspeed projection as well as high speed 3D sensing and deformation: [https://www.vision.ict.e.titech.ac.jp/projects/dynaflashv2/index.html](https://www.vision.ict.e.titech.ac.jp/projects/dynaflashv2/index.html)\
+
+
+{% embed url="https://www.youtube.com/watch?v=QDppJ9NWtaE" %}
+
+Most of the tricks that lead to high speed projection tend to go to hacking how images are sent to  a standard projector over a normal display path since it would be difficult to engineer a whole signal path from computer to projector. For example, you can send 3 black and white frames per frame if they are encoded in red/green/blue for a single frame. There is some other wizardy involved, but that is one of the main elements.&#x20;

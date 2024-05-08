@@ -7,7 +7,7 @@
 * LED through wood veneer
 * Others
 
-### Artistic Approaches <a href="#1b74" id="1b74"></a>
+### Artistic Approaches <a href="#id-1b74" id="id-1b74"></a>
 
 This is a challenging category to compartmentalize, but there is a lot of great work to consider here. Sometimes you don’t need a cutting edge display or experimental hardware to do something new. By placing different optical materials in front of a monitor, projection or LED video wall you can create something that doesn’t feel like a standard display at all. Of course it can be a little more challenging to show sharp coherent images with a techique like this, but sometimes a piece is much more about playing with texture and motion more than legibility.
 
@@ -16,6 +16,10 @@ This is a challenging category to compartmentalize, but there is a lot of great 
 There are many examples of this kind of work. Mary Franck’s pieces [_Diffuse Objects_](http://www.maryfranck.net/portfolio/diffuse-objects/) and [_Gilded and Unreal_](http://www.maryfranck.net/portfolio/gilded-and-unreal/) _are a great starting point._ These pieces combine a standard LCD screen with custom formed materials. The content show on the screen interacts with the materials in a way that gives the light and imagery more physicality and dimension than it would on a flat screen.
 
 Another piece in this area is Lucy Hardcastle’s [_Qualia_](https://www.lucyhardcastle.com/qualia/). This is a touch sensitive version of a 3D object that has light passing through it. I’m only speculating on how this works, but from the video it looks like it is projection (note DLP projection rainbow bands) from underneath into a 3d form that has been frosted. I suspect the touch sensitivity is done using IR light and a camera in a similar way to rear projection touch tables.
+
+Kimchi and Chips also have an amazing series of pieces that utilize custom optical elements, software and screens - check out their [Optical Rail series](https://www.kimchiandchips.com/works/opticalrail/)
+
+{% embed url="https://vimeo.com/554329982" %}
 
 ### Fiber Optics and Acrylic
 
