@@ -32,7 +32,7 @@ To add:
     * ✅ PJ-Link 3D LED TV Display - actuated LED panels&#x20;
   * ✅ Autostereoscopic
     * ✅ Seecubic
-    * Lightspace Technologies
+    * ✅Lightspace Technologies
     * ✅ Sony Spatial Reality
     * ✅ Dimenco (Leia?)
   * ✅ Light Field or Field of Light Displays:
@@ -44,17 +44,18 @@ To add:
     * ✅ ASKA3D
   * Kinetic:
     * [https://www.fluidreality.com/](https://www.fluidreality.com/)
+    * ✅ Pj Link mechanical (didnt add all of these, but most):
+      * [https://www.youtube.com/watch?v=CNYp\_R1sriw](https://www.youtube.com/watch?v=CNYp\_R1sriw)
+        * [https://www.youtube.com/watch?v=19l453Vj\_60](https://www.youtube.com/watch?v=19l453Vj\_60)
+        * Wayfinding leds: [https://www.youtube.com/shorts/\_tWAruYoVHc](https://www.youtube.com/shorts/\_tWAruYoVHc)
+        * Mechanical overview: [https://www.youtube.com/watch?v=Swt6U6aD2OY](https://www.youtube.com/watch?v=Swt6U6aD2OY)
   * Not sure of category:
     * Pacific Light and Hologram
     * [KentOptronics Switchable LCD](https://www.youtube.com/watch?v=0DfhrjpF9Gg) transparent mirror and [other products](https://www.kentoptronics.com/transparent.html)
     * [MicroOLED](https://microoled.net)
     * [VividQ](https://www.vividq.com)
-    * [Liminal Space](https://patents.google.com/patent/US8542270B2/en)
-    * DoMoCo drone: [https://www.docomo.ne.jp/english/info/media\_center/pr/2021/1112\_01.html](https://www.docomo.ne.jp/english/info/media\_center/pr/2021/1112\_01.html)
-    * : [https://www.youtube.com/watch?v=CNYp\_R1sriw](https://www.youtube.com/watch?v=CNYp\_R1sriw)
-    * [https://www.youtube.com/watch?v=19l453Vj\_60](https://www.youtube.com/watch?v=19l453Vj\_60)
-    * Wayfinding leds: [https://www.youtube.com/shorts/\_tWAruYoVHc](https://www.youtube.com/shorts/\_tWAruYoVHc)
-    * Mechanical overview: [https://www.youtube.com/watch?v=Swt6U6aD2OY](https://www.youtube.com/watch?v=Swt6U6aD2OY)
+    * ✅ [Liminal Space](https://patents.google.com/patent/US8542270B2/en)
+    * ✅ DoMoCo drone: [https://www.docomo.ne.jp/english/info/media\_center/pr/2021/1112\_01.html](https://www.docomo.ne.jp/english/info/media\_center/pr/2021/1112\_01.html)
 * Added:
   * ✅JDI  Rælclear to transparent LCD section
   * ✅Transparent OLED with black pixels [https://www.flatpanelshd.com/news.php?subaction=showfull\&id=1673336078](https://www.flatpanelshd.com/news.php?subaction=showfull\&id=1673336078)

@@ -112,3 +112,6 @@ Ferrofluid displays use a material called ferrofluid (typically a mix of oil and
 Ferror-V Ferrofluid display
 {% endembed %}
 
+### See also:
+
+* Fluid Reality:  [https://www.fluidreality.com/](https://www.fluidreality.com/) - this is more of a haptic sensing device, but seems like it has potential from a display perspective as well.

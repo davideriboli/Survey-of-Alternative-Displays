@@ -111,3 +111,4 @@ See also:
 
 * &#x20;The [BOE 16K 32" Display ](https://www.youtube.com/watch?v=\_dzkJfvQ9i8)within this long video
 * This [USC Example that uses 72 projectors](https://youtu.be/PjP4SvHjkdo?si=VuDQozc-bn6b1jF0) on a diffuser to provide a multiview&#x20;
+* Lightspace Technologies had a display that claims to use a fast projector and a method to quickly switch between projection layers to create volumetric images on multiple planes - it is hard to say if this would be considered multiview or lightfield though - [here is a video](https://www.youtube.com/watch?v=HeBwdqfbXZ8) on that tech from 2017 and a more [detailed description](https://www.youtube.com/watch?v=tzcwFlklTz4) of how it works. The company now seems to be focused more on headset displays rather than larger multi-user displays.

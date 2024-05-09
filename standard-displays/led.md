@@ -15,3 +15,7 @@ Because of some of the cost and special considerations involved in installation,
 {% embed url="https://www.youtube.com/watch?v=h8imXrmm-yw" %}
 LED Walls: A Beginner's Guide
 {% endembed %}
+
+### See also:
+
+A company called [Liminal space patented something](https://patents.google.com/patent/US8542270B2/en) around Polarized LED panels for 3D displays - but its unclear if anything was ever publicly demonstrated.

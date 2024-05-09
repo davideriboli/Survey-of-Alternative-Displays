@@ -17,3 +17,11 @@ The most commonly mentioned provider is [Intel's division that handles drone dis
 A very early example of coordinated drones being used as part of a light show is this 2012 piece from Marshmallow Laser Feast called [Meet Your Creator](https://www.memo.tv/works/meet-your-creator/):
 
 {% embed url="https://vimeo.com/105175961?embedded=true&owner=403780&source=vimeo_logo" %}
+
+### Docomo Drone
+
+For a slightly different take that mostly belongs in the persistence of vision category - Japanese company [NTT Docomo](https://www.docomo.ne.jp/english/info/media\_center/pr/2021/1112\_01.html) made these drones that have a persistence of vision display spinning around them that can show low resolution content. it is unclear if these are still available (or were ever really available) for any sort of use or purchase though.
+
+{% embed url="https://www.youtube.com/watch?v=0UYDdJN53ak" %}
+NTT Docomo Drone
+{% endembed %}
