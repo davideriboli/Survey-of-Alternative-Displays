@@ -53,6 +53,7 @@
 * [Overview](legacy/overview.md)
 * [Cathode Ray Tube](legacy/cathode-ray-tube.md)
 * [Eggcrate and other Numeric Displays](legacy/eggcrate-and-other-numeric-displays.md)
+* [Glasses-enabled 3D](legacy/glasses-enabled-3d.md)
 * [Pyrotechnics and Other Curiosities](legacy/pyrotechnics-and-other-curiosities.md)
 
 ***

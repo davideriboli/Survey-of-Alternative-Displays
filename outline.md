@@ -74,6 +74,7 @@ description: This is an overview of everything that is covered in the following 
     * [SPD](techniques/switchable-glass.md#spd)
     * [Electrochromic](techniques/switchable-glass.md#electrochromic-glass)
     * [LCD](techniques/switchable-glass.md#lcd)
+    * [Switchable Mirror](techniques/switchable-glass.md#switchable-mirrors)
   * [Drone Displays](experimental-other/drone-displays.md)
   * [Electrochromic Paint](experimental-other/electrochromic-paint.md)
   * [Scanning fiber optics](experimental-other/scanning-fiber-optics.md)

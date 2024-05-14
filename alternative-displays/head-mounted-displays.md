@@ -1,5 +1,7 @@
 # Head Mounted Displays
 
+You could also describe this section as "Near Eye" displays depending on the type. As things get smaller, describing them as Head Mounted will start to sound a bit odd.
+
 ## Head mounted displays <a href="#e3cc" id="e3cc"></a>
 
 ![Hugo Gernsback’s Television Goggles — 1963](https://miro.medium.com/max/1400/1\*ktiFVd3sZ9XWNz53ecC4fg.jpeg)
@@ -26,8 +28,13 @@ See also:
 
 [Swave Photonics](https://swave.io) - they have a small holographic chip that they hope can be utilized in AR glasses and other areas for creating true holographic still and dynamic images
 
+### VividQ
+
+[VividQ](https://www.vividq.com)'s technology is not super well described on their site, but it seems to be a combination of computer generated holography for near eye displays that allows for proper focus perception.
+
 
 
 Other Links:
 
 * [TV Helmet](https://www.vintag.es/2019/05/tv-helmet-by-walter-pichler.html)
+* [MicroOLED](https://microoled.net/) for very tiny (<10mm) but high resolution displays - primarily for near eye viewing

@@ -8,6 +8,7 @@ When it comes to switchable glass, there are several different technologies.
 * [SPD](switchable-glass.md#spd)
 * [Electrochromic](switchable-glass.md#electrochromic)
 * [LCD](switchable-glass.md#lcd)
+* [Switchable Mirrors](switchable-glass.md#switchable-mirrors)
 
 ### PDLC
 
@@ -53,6 +54,18 @@ Patterned by Nature
 
 Jason Bruge's studio also makes heavy use of specialized LCD panels, like in the piece [Digital Fountain](https://www.jasonbruges.com/digital-fountain/).
 
-![Jason Bruges Studio Digital Fountain ](../.gitbook/assets/image-asset.jpeg)
+![Jason Bruges Studio - Digital Fountain ](../.gitbook/assets/image-asset.jpeg)
 
 Finding a source for making custom LCD's in this way is a bit of a challenge since they are such a niche product. One source may be [Pacer](https://www.pacer-usa.com/displays/mono-lcd-displays/custom-lcd-lcm/). Another is [White Wing Logic](http://whitewing.co.uk) based in the UK who has created or advised on a number of the projects for Jason Bruge's studio.
+
+### Switchable Mirrors
+
+The company [KentOptronics](https://kentoptronics.com) has a special switchable mirror technology seen below that allows them to switch between a clear view piece of glass and a mirror. They can also fade between the two modes.
+
+{% embed url="https://www.youtube.com/watch?v=0DfhrjpF9Gg" %}
+KentOptronics - Switchable Mirror
+{% endembed %}
+
+From their site they describe the technology like this:
+
+"Made from 1-D photonics crystal in thin film format based on holographic or polymer stabilized liquid crystal composite materials, the switchable mirrors allow instantly variable transmittance (0.1-90%) and reflection (<1-99.9%) without the need for special gas."

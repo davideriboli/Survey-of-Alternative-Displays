@@ -12,9 +12,9 @@ To add:
   * ✅ Need to change Lightfield category to capture things like autostereoscopic lenticular and multiview. Need to move Looking Glass
   * ✅ Might need to update "Volumetric" to be things like swept volume
 * Add sections on:
-  * What is a "display"?
+  * ✅ What is a "display"?
   * How do I find the right kind of display for my use case? What environmental factors make some displays a better use than others? Perhaps a display matrix with different conditions that are highlighted?
-  * Anaglyph glasses? Chromadepth?
+  * ✅Anaglyph glasses? Chromadepth?
   * Depth cues?
   * What are qualities of an ideal display?
   * What is the promise of a holographic display?
@@ -50,9 +50,9 @@ To add:
         * Wayfinding leds: [https://www.youtube.com/shorts/\_tWAruYoVHc](https://www.youtube.com/shorts/\_tWAruYoVHc)
         * Mechanical overview: [https://www.youtube.com/watch?v=Swt6U6aD2OY](https://www.youtube.com/watch?v=Swt6U6aD2OY)
   * Not sure of category:
-    * Pacific Light and Hologram
-    * [KentOptronics Switchable LCD](https://www.youtube.com/watch?v=0DfhrjpF9Gg) transparent mirror and [other products](https://www.kentoptronics.com/transparent.html)
-    * [MicroOLED](https://microoled.net)
+    * Pacific Light and Hologram (not sure what they do, just heard of them in passing)
+    * ✅ [KentOptronics Switchable LCD](https://www.youtube.com/watch?v=0DfhrjpF9Gg) transparent mirror and [other products](https://www.kentoptronics.com/transparent.html)
+    * ✅[MicroOLED](https://microoled.net)
     * [VividQ](https://www.vividq.com)
     * ✅ [Liminal Space](https://patents.google.com/patent/US8542270B2/en)
     * ✅ DoMoCo drone: [https://www.docomo.ne.jp/english/info/media\_center/pr/2021/1112\_01.html](https://www.docomo.ne.jp/english/info/media\_center/pr/2021/1112\_01.html)
