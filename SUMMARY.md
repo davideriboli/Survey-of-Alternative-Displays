@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Survey of Alternative Displays - 2022 Update Notes](README.md)
-* [2024 Update Notes](2023-update-notes.md)
-* [Introduction](<README (1).md>)
+* [2022 Update Notes](2022_update_notes.md)
+* [Introduction](Introduction.md)
 * [Outline](outline.md)
 
 ## Standard Displays

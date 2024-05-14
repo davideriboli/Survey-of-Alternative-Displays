@@ -1,10 +1,10 @@
-# 2022 Update Notes
+# 2024 Update Notes
 
 ![](.gitbook/assets/header.jpg)
 
 (Original version from [Blair Neal](https://www.ablairneal.com))
 
-This article was originally [created and hosted on Medium](https://laserpilot.medium.com/survey-of-alternative-displays-82d928480b9d), but its length on a single page made it very unweildy to keep it updated with fresh content. Additionally, most of the information is from the original writeup from 2015 and needs a pretty serious update as many things have changed in 7 years.&#x20;
+This article was originally [created and hosted on Medium](https://laserpilot.medium.com/survey-of-alternative-displays-82d928480b9d), but its length on a single page made it very unweildy to keep it updated with fresh content. The original was made in 2015, with a major revision in 2022. In 2024 I added a bunch more and reconfigured some categories.
 
 This update will be ongoing and some sections may be more updated than others. Gitbook may not be the final resting place but it seems like the best approach for now.
 
@@ -12,38 +12,71 @@ This update will be ongoing and some sections may be more updated than others. G
 
 If you're on Gitbook, the link to the [Github for this article is here](https://github.com/laserpilot/Survey\_of\_Alternative\_Displays). Please contribute if you'd like!
 
-If your project or image is featured here and you would prefer me to remove it, please send me a message/email/etc (contact info on [my website](https://www.ablairneal.com)). Additionally, if you have something you think needs to change or be added, please submit a pull request and I'll add it in.
+If your project or image is featured here and you would prefer me to remove it, please send me a message/email/etc (contact info on [my website](https://www.ablairneal.com)). Additionally, if you have something you think needs to change or be added, please submit a pull request and I'll add it in (or send me an email!).
 
-**Additions for 2022 compared to the original 2015 version:**
+## To add/Added in 2024:
 
-* Moved to github/gitbook
-* Re-organized content and added a new outline
-* Added new content and examples to almost every content page
-* Added separate sections for Legacy, Technique, and Experimental approaches
-* Added the following sections compared to the original, and dozens of new examples and videos. Most of the original categories also have many new subcategories within that weren't originally included.
-  * Switchable Glass
-  * Drone Displays
-  * Many new Transparent displays and transparent OLED updates
-  * Electrochromic Paint
-  * Scanning Fiber Optics
-  * Lasers and video projection
-  * Laser Diodes
-  * Many new Lightfield displays (Looking Glass, Solidlight, Fovi, Leia)
-  * Architectural E-Ink
-  * Ferrofluid
-  * Acoustic Levitation
-  * High Refresh Rate Displays
-  * Cathode Ray Tube
-  * Eggcrate and numerical displays
-  * Pyrotechnics and other curiosities
-  * Misleading terms
-  * Touchscreen notes
-  * XR and Virtual Production
-  * ...and more?
+* Recategorize:
+  * ✅ Need to change Lightfield category to capture things like autostereoscopic lenticular and multiview. Need to move Looking Glass
+  * ✅ Might need to update "Volumetric" to be things like swept volume
+* Add sections on:
+  * ✅ What is a "display"?
+  * How do I find the right kind of display for my use case? What environmental factors make some displays a better use than others? Perhaps a display matrix with different conditions that are highlighted?
+  * ✅Anaglyph glasses? Chromadepth?
+  * Depth cues?
+  * What are qualities of an ideal display?
+  * What is the promise of a holographic display?
+* Displays or companies to add:
+  * ✅ JDI 8K Light Field Display from 2019
+  * ✅ Projection Scrim:
+    * ✅ Hologauze
+    * ✅ Carbon Black
+  * ✅ Multiview:
+    * ✅ Real Fiction Multiview
+    * ✅ USC Multiview with 72 projectors
+  * Head Mounted displays
+    * ✅ SWave (could also be considered experimental)
+  * Kinetic:
+    * ✅ PJ-Link 3D LED TV Display - actuated LED panels&#x20;
+  * ✅ Autostereoscopic
+    * ✅ Seecubic
+    * ✅Lightspace Technologies
+    * ✅ Sony Spatial Reality
+    * ✅ Dimenco (Leia?)
+  * ✅ Light Field or Field of Light Displays:
+    * ✅ Avalon Holographics
+  * Swept Volume
+    * ✅[USC Rotating Display](https://www.youtube.com/watch?v=8gvPS1m40gw\&t=55s)
+    * ✅Mini volumetric - [https://youtu.be/HKpBhE7QVAI?si=4uf6Si9HyYOtIBYa](https://youtu.be/HKpBhE7QVAI?si=4uf6Si9HyYOtIBYa)
+  * Optical/peppers ghost
+    * ✅ ASKA3D
+  * Kinetic:
+    * [https://www.fluidreality.com/](https://www.fluidreality.com/)
+    * ✅ Pj Link mechanical (didnt add all of these, but most):
+      * [https://www.youtube.com/watch?v=CNYp\_R1sriw](https://www.youtube.com/watch?v=CNYp\_R1sriw)
+        * [https://www.youtube.com/watch?v=19l453Vj\_60](https://www.youtube.com/watch?v=19l453Vj\_60)
+        * Wayfinding leds: [https://www.youtube.com/shorts/\_tWAruYoVHc](https://www.youtube.com/shorts/\_tWAruYoVHc)
+        * Mechanical overview: [https://www.youtube.com/watch?v=Swt6U6aD2OY](https://www.youtube.com/watch?v=Swt6U6aD2OY)
+  * Not sure of category:
+    * Pacific Light and Hologram (not sure what they do, just heard of them in passing)
+    * ✅ [KentOptronics Switchable LCD](https://www.youtube.com/watch?v=0DfhrjpF9Gg) transparent mirror and [other products](https://www.kentoptronics.com/transparent.html)
+    * ✅[MicroOLED](https://microoled.net)
+    * [VividQ](https://www.vividq.com)
+    * ✅ [Liminal Space](https://patents.google.com/patent/US8542270B2/en)
+    * ✅ DoMoCo drone: [https://www.docomo.ne.jp/english/info/media\_center/pr/2021/1112\_01.html](https://www.docomo.ne.jp/english/info/media\_center/pr/2021/1112\_01.html)
+* Added:
+  * ✅JDI  Rælclear to transparent LCD section
+  * ✅Transparent OLED with black pixels [https://www.flatpanelshd.com/news.php?subaction=showfull\&id=1673336078](https://www.flatpanelshd.com/news.php?subaction=showfull\&id=1673336078)
+  * ✅Nixie tubes to vintage area?
+  * ✅UV activated materials (photochromic pigments and paints) to light activated surfaces
+  * ✅Rollable LG tv to flexible displays
+  * ✅Royole Flexible tree display and flexible panels - https://global.royole.com/us/rotree
+  * ✅Hologauze, Holonet, and Carbon Black to Transparent Projection
+  * ✅One Plane Displays or projection displays: [https://www.industrialalchemy.org/articleview.php?item=511](https://www.industrialalchemy.org/articleview.php?item=511)
+  * ✅Stacked RGB pixels: [https://news.mit.edu/2023/vertical-stacked-color-microscopic-leds-0201](https://news.mit.edu/2023/vertical-stacked-color-microscopic-leds-0201)
 
-This is currently using Gitbook's free plan. If there is enough interest, I could set up a tipjar or something for this project and open it up as a paid project with multiple contributors and the ability to export the entire thing as a formatted PDF.
 
-###
+  ###
 
 ### Notes on Contributing Updates
 
@@ -87,4 +120,3 @@ Note the odd spelling of "endembed" instead of embedded when adding a comment be
 {% embed url="https://www.youtube.com/watch?v=D1pa3UX89GA" %} Rollable OLED {% endembed %}
 {% endraw %}
 ```
-
