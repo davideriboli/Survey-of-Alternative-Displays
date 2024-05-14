@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Survey of Alternative Displays - 2022 Update Notes](README.md)
+* [Survey of Alternative Displays - 2024 Update Notes](README.md)
 * [2022 Update Notes](2022_update_notes.md)
 * [Introduction](Introduction.md)
 * [Outline](outline.md)
