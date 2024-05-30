@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Survey of Alternative Displays - 2024 Update Notes](README.md)
-* [2022 Update Notes](2022_update_notes.md)
+* [2022 Update Notes](2022\_update\_notes.md)
 * [Introduction](Introduction.md)
 * [Outline](outline.md)
 
@@ -62,6 +62,7 @@
 
 ## Appendix
 
+* [Holograms and the Ideal Display](appendix/holograms-and-the-ideal-display.md)
 * [Misleading Terms](appendix/misleading-terms.md)
 * [Notes about Touch Screens](appendix/notes-about-touch-screens.md)
 * [Virtual Production and XR](appendix/virtual-production-and-xr.md)
