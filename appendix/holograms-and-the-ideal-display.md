@@ -2,7 +2,7 @@
 
 Holograms are also covered in the [misleading-terms.md](misleading-terms.md "mention") area of the appendix, but I think it is worth covering a few stray thoughts I have about this sort of "holy grail" concept of a hologram and an ideal display type.&#x20;
 
-Holograms are an overused term that tends to feel a bit meaningless but also points to the promise of an ideal display. Everything from light field, to autostereoscopic, to persistence of vision is branded as a "hologram" to suggest something more than 2D, even if that's all it is.
+Holograms are an overused term that tends to feel a bit meaningless, but it also seems to point to a sort of promise of an ideal display. Everything from light field, to autostereoscopic, to persistence of vision is branded as a "hologram" to suggest something more than 2D, even if that's all it is. Is there a way we can look at some commonalities around what exists as a "hologram" display today and what might be needed to get to some next stages?
 
 The characteristics of a (heavy air quotes) " hologram " display often include:
 

@@ -71,7 +71,7 @@ I have seen this display in person and it is quite sharp and nice looking when y
 
 ### RealFiction
 
-[Realfiction](https://www.realfiction.com) has a number of technologies and capabilities that allow for a unique approach to multiview displays. According to the video below, they use a very fast ferroelectric liquid crystal element to display time-multiplexed images with no loss in spatial resolution. Maintaining spatial resolution is an important distinction in comparison with other "lossy resolution" lenticular multiview technology on this page. Realfiction achieves this effect (in very simplified terms) by synchronizing the overlay with the display and showing different images per view. They have public demos that show their [Directional Pixel Technology](https://www.youtube.com/watch?v=Kn6Onqk\_N0s) working for microLED below.
+[Realfiction](https://www.realfiction.com) has a number of technologies and capabilities that allow for a unique approach to multiview displays. According to the video below, they use a very fast ferroelectric liquid crystal element to display time-multiplexed images with no loss in spatial resolution. Maintaining spatial resolution is an important distinction in comparison with other "lossy resolution" lenticular multiview technology on this page. Realfiction achieves this effect (in very simplified terms) by synchronizing the overlay with the display and showing different images per view. They have public demos that show their [Directional Pixel Technology](https://www.youtube.com/watch?v=Kn6Onqk\_N0s) working for microLED (shown below) and LCD displays as well as eye tracking capbilities that allow for stereoscopic views.
 
 {% embed url="https://www.youtube.com/watch?v=ETZ62SeLawY" %}
 
