@@ -17,17 +17,25 @@ This is another wide reaching category that could be classified under a few diff
 
 [Looking Glass Factory](https://lookingglassfactory.com)
 
-Looking Glass Factory has been a pioneer in lightfield displays for years and has made a number of innovative products in this category. Their differentiator is that a lot of their products are geared towards an average consumer rather than only an expensive commercial market.&#x20;
+Looking Glass Factory has been a pioneer in lenticular autostereoscopic displays for years and has made a number of innovative products in this category. They have an interesting differentiator in that they offer a range of products from smaller and more affordable consumer models to larger commercial models.
 
-In very basic, but somewhat unaccurate terms, the display itself uses a very high resolution/high pixel density display and a specialized lenticular film that directs the light into a few dozen different viewing angles. A specialized imaging pipeline takes a 3D scene, slices it up into all of these different views, and puts each one on a thin slice on the display. As that light passes through the lenticular film, it gets refracted into the different angles and allows each of your eyes to see a different view. The effect itself is very convincing and really feels like a floating image is right in front of the display.
+In very basic, but somewhat unaccurate terms, the display itself uses a very high resolution/high pixel density display and a specialized lenticular film that directs the light into a few dozen different viewing angles. A specialized imaging pipeline takes a 3D scene, slices it up into all of these different views, and puts each one on a thin slice on the display. As that light passes through the lenticular film, it gets refracted into the different angles and allows each of your eyes to see a different view. The effect itself is very convincing and really feels like a floating image is right in front of the display. Some products have an additional light frame around them that helps give an extra sensation of depth. The overall viewing angle/viewing cone for the depth effect is aboout 53º. It is also worth noting that they are half parallax displays which means that the depth effect largely only works in the horizontal axis (moving your head side to side) whereas the vertical axis (trying to look above and below an object on screen) doesn't quite produce much of a depth effect. Another way to put this is that you can't buy a landscape display and turn it vertically and expect it to work as intended.
 
-Their latest product, the Looking Glass Portrait is a 7.9" lightfield display with a 78º viewing cone an it goes for $399. It's great for small experiments and things like viewing personal portraits.  While it does allow for multiple viewers at the same time, its somewhat small size and narrow viewing cone needs careful consideration if it is to be used for an installation project.
+Looking Glass is releasing new products every year, so it can be hard to keep guides like this completely up to date, but I'll try and cover some of their usual offerings below.
 
-{% embed url="https://www.youtube.com/watch?v=4pJxdNRA1CM" %}
+They usually have smaller units like their 2024 [Looking Glass Go](https://lookingglassfactory.com/looking-glass-go) that is a small \~7" portable battery powered display, primarily aimed at consumers. It has the ability to store and display images directly on the device, but can also be run from a PC.
 
-Looking Glass Factory does offer 2 other more commercially oriented versions for large scale displays, but the price point is a large leap. They have a 4K Gen 2 display that is about 15.6" diagonally. Their 8K Gen2 Display is about 32" on the diagonal. As the displays get larger, they need to pack even more pixels into the display to create the same vokumetric visual effect. This creates more and more overhead for rendering as well, but it will be interesting to see where this kind of technology goes as resolution density continues to evolve.
+Moving up a wrung in size they also have various types of [16"](https://lookingglassfactory.com/16-spatial-oled) and [32"](https://lookingglassfactory.com/looking-glass-32) Displays that are 8K OLED displays under the hood. Their newest 2024 models have opted for a much slimmer design to look more like a standard monitor.
 
-Below is an overview of Looking Glass's previous product that utilzied somewhat similar technology but had a large slab of acrylic on top of the display that felt like a volume that contained the image. The newer version feels like an image you can touch.
+Their current largest size is their [65"](https://lookingglassfactory.com/looking-glass-65) that is quite impressive in person. Video below:
+
+{% embed url="https://www.youtube.com/watch?v=bUbN51fQZ5U" %}
+Looking Glass 65"
+{% endembed %}
+
+As the displays get larger, they need to pack even more pixels into the display to create the same volumetric visual effect. This increase in density also increases rendering overhead. There is also a bit of a tradeoff for physical size and the sensation of depth - the sense of depth from parallax is slightly less as the display scales up - shallow depth of field content tends to work best.  It will be interesting to see where this kind of technology goes as resolution density continues to evolve.
+
+Below is an overview of Looking Glass's previous product that utilzied somewhat similar technology but had a large slab of acrylic on top of the display that felt like a volume that contained the image. The newer version feels like an image you can put your hand through.
 
 [Another video link](https://www.youtube.com/watch?v=PgiyoweaPb4)
 
@@ -63,7 +71,7 @@ I have seen this display in person and it is quite sharp and nice looking when y
 
 ### RealFiction
 
-[Realfiction](https://www.realfiction.com) has a number of technologies and capabilities that allow for a unique approach to multiview displays. According to the video below, they use a very fast ferroelectric liquid crystal element to display time-multiplexed images with no loss in spatial resolution (an important distinction lain comparison with other lenticular multiview technology on this page that does ultimately reduce spatial resolution to allow for more views. They achieve this by synchronizing the overlay with the displayand showing different images per view. They have public demos that show their [Directional Pixel Technology](https://www.youtube.com/watch?v=Kn6Onqk\_N0s) working for microLED and LCD displays as well as eye tracking capbilities that allow for stereoscopic views.
+[Realfiction](https://www.realfiction.com) has a number of technologies and capabilities that allow for a unique approach to multiview displays. According to the video below, they use a very fast ferroelectric liquid crystal element to display time-multiplexed images with no loss in spatial resolution. Maintaining spatial resolution is an important distinction in comparison with other "lossy resolution" lenticular multiview technology on this page. Realfiction achieves this effect (in very simplified terms) by synchronizing the overlay with the display and showing different images per view. They have public demos that show their [Directional Pixel Technology](https://www.youtube.com/watch?v=Kn6Onqk\_N0s) working for microLED below.
 
 {% embed url="https://www.youtube.com/watch?v=ETZ62SeLawY" %}
 
