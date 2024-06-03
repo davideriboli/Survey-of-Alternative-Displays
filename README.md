@@ -1,6 +1,6 @@
 # Survey of Alternative Displays - 2024 Update Notes
 
-![](.gitbook/assets/header.jpg)
+<figure><img src=".gitbook/assets/2024_update.jpeg" alt=""><figcaption></figcaption></figure>
 
 (Original version from [Blair Neal](https://www.ablairneal.com))
 
