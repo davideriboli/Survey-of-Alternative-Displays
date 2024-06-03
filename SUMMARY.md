@@ -23,6 +23,7 @@
 * [Lenticular and Multiview Displays](alternative-displays/lenticular-and-multiview-displays.md)
 * [Light-field Displays](alternative-displays/light-field-displays.md)
 * [Head Mounted Displays](alternative-displays/head-mounted-displays.md)
+* [Circular and Non Rectangular](alternative-displays/circular-and-non-rectangular.md)
 
 ## Techniques
 

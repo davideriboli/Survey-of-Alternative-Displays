@@ -47,6 +47,7 @@ description: This is an overview of everything that is covered in the following 
     * [Avalon Holographics](alternative-displays/light-field-displays.md#avalon-holographics)
     * [Fovi3d](alternative-displays/light-field-displays.md#fovi3d)
   * [Head Mounted Displays (VR/AR/Mixed Reality)](alternative-displays/head-mounted-displays.md)
+  * [Circular and Non-Rectnagular](alternative-displays/circular-and-non-rectangular.md)
 * **Techniques:**
   * [Pepper’s Ghost](techniques/peppers-ghost.md)
   * [Projection on Static Transparent Materials/Scrims](techniques/projection-on-static-material.md)

@@ -26,6 +26,7 @@ If your project or image is featured here and you would prefer me to remove it, 
   * (not in yet) Depth cues? (already in Misleading terms, but could be broken out more)
   * ✅What are qualities of an ideal display?
   * ✅What is the promise of a holographic display?
+  * ✅Add Circular or Non Rectangular display category
 * Displays or companies to add:
   * ✅ JDI 8K Light Field Display from 2019
   * ✅ Projection Scrim:
