@@ -1,4 +1,4 @@
-# 2024 Update Notes
+# Survey of Alternative Displays - 2024 Update Notes
 
 ![](.gitbook/assets/header.jpg)
 
@@ -21,11 +21,11 @@ If your project or image is featured here and you would prefer me to remove it, 
   * ✅ Might need to update "Volumetric" to be things like swept volume
 * Add sections on:
   * ✅ What is a "display"?
-  * How do I find the right kind of display for my use case? What environmental factors make some displays a better use than others? Perhaps a display matrix with different conditions that are highlighted?
+  * (not in yet) How do I find the right kind of display for my use case? What environmental factors make some displays a better use than others? Perhaps a display matrix with different conditions that are highlighted?
   * ✅Anaglyph glasses? Chromadepth?
-  * Depth cues?
-  * What are qualities of an ideal display?
-  * What is the promise of a holographic display?
+  * (not in yet) Depth cues? (already in Misleading terms, but could be broken out more)
+  * ✅What are qualities of an ideal display?
+  * ✅What is the promise of a holographic display?
 * Displays or companies to add:
   * ✅ JDI 8K Light Field Display from 2019
   * ✅ Projection Scrim:
@@ -37,7 +37,7 @@ If your project or image is featured here and you would prefer me to remove it, 
   * Head Mounted displays
     * ✅ SWave (could also be considered experimental)
   * Kinetic:
-    * ✅ PJ-Link 3D LED TV Display - actuated LED panels&#x20;
+    * ✅ PJ-Link 3D LED TV Display - actuated LED panels
   * ✅ Autostereoscopic
     * ✅ Seecubic
     * ✅Lightspace Technologies
@@ -64,19 +64,19 @@ If your project or image is featured here and you would prefer me to remove it, 
     * [VividQ](https://www.vividq.com)
     * ✅ [Liminal Space](https://patents.google.com/patent/US8542270B2/en)
     * ✅ DoMoCo drone: [https://www.docomo.ne.jp/english/info/media\_center/pr/2021/1112\_01.html](https://www.docomo.ne.jp/english/info/media\_center/pr/2021/1112\_01.html)
-* Added:
-  * ✅JDI  Rælclear to transparent LCD section
-  * ✅Transparent OLED with black pixels [https://www.flatpanelshd.com/news.php?subaction=showfull\&id=1673336078](https://www.flatpanelshd.com/news.php?subaction=showfull\&id=1673336078)
-  * ✅Nixie tubes to vintage area?
-  * ✅UV activated materials (photochromic pigments and paints) to light activated surfaces
-  * ✅Rollable LG tv to flexible displays
-  * ✅Royole Flexible tree display and flexible panels - https://global.royole.com/us/rotree
-  * ✅Hologauze, Holonet, and Carbon Black to Transparent Projection
-  * ✅One Plane Displays or projection displays: [https://www.industrialalchemy.org/articleview.php?item=511](https://www.industrialalchemy.org/articleview.php?item=511)
-  * ✅Stacked RGB pixels: [https://news.mit.edu/2023/vertical-stacked-color-microscopic-leds-0201](https://news.mit.edu/2023/vertical-stacked-color-microscopic-leds-0201)
+*   Added:
 
+    * ✅JDI Rælclear to transparent LCD section
+    * ✅Transparent OLED with black pixels [https://www.flatpanelshd.com/news.php?subaction=showfull\&id=1673336078](https://www.flatpanelshd.com/news.php?subaction=showfull\&id=1673336078)
+    * ✅Nixie tubes to vintage area?
+    * ✅UV activated materials (photochromic pigments and paints) to light activated surfaces
+    * ✅Rollable LG tv to flexible displays
+    * ✅Royole Flexible tree display and flexible panels - https://global.royole.com/us/rotree
+    * ✅Hologauze, Holonet, and Carbon Black to Transparent Projection
+    * ✅One Plane Displays or projection displays: [https://www.industrialalchemy.org/articleview.php?item=511](https://www.industrialalchemy.org/articleview.php?item=511)
+    * ✅Stacked RGB pixels: [https://news.mit.edu/2023/vertical-stacked-color-microscopic-leds-0201](https://news.mit.edu/2023/vertical-stacked-color-microscopic-leds-0201)
 
-  ###
+    ####
 
 ### Notes on Contributing Updates
 
@@ -86,7 +86,7 @@ Content contributions are encouraged and welcomed! Please submit a pull request 
 
 While there are a ton of top level categories and a bit of inconsitency in how I'm organizing, I'm going to do my best to keep things in certain places. If you have a display technology that only has a single example, it will most likely be a better for the "Experimental" category instead of just the alternative display category.
 
-In my (rough)categorization:&#x20;
+In my (rough)categorization:
 
 * Alternative Displays: mostly commercial products and things you can buy or rent right now
 * Techniques: a combination of a commercial product and a fabrication/optical technique
@@ -111,6 +111,7 @@ One important note is for embedding content, Gitbook uses a custom format for em
 {% raw %}
 {% embed url="https://www.youtube.com/watch?v=WxgVYCxShvA" %}
 {% endraw %}
+
 ```
 
 Note the odd spelling of "endembed" instead of embedded when adding a comment beneath an embed. Ideally adding a comment for what the video is will be hugely helpful later whenever youtube videos aren't visible.

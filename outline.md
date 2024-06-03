@@ -87,6 +87,7 @@ description: This is an overview of everything that is covered in the following 
   * [Pyrotechnics and other curiosities](legacy/pyrotechnics-and-other-curiosities.md)
 * [Closing Notes](closing-notes.md)
 * **Appendix and Other References**
+  * [Holograms and the Ideal Display](appendix/holograms-and-the-ideal-display.md)
   * [Misleading terms](appendix/misleading-terms.md)
     * [Hologram](appendix/misleading-terms.md#holograms)
     * [Autostereoscopic Displays/3D TV's](appendix/misleading-terms.md#autostereoscopic-displays-3d-tvs)
