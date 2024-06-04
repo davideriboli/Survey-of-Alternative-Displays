@@ -2,17 +2,17 @@
 
 There are many types of volumetric displays and various ways we could classify them. Below we'll cover volumetric displays that use the principles of using mechanical or persistence of vision illusions to create images, and another version that uses layered screens to create a sense of volume. In a separate section we'll cover [light field displays](light-field-displays.md) that have another take on this whole approach.
 
-* [Mechanical/Persistence of Vision](volumetric.md#2929)
+* [Mechanical/Persistence of Vision](volumetric.md#id-2929)
 * [Layered Screens](volumetric.md#c28e)
 * [Volumetric LED](volumetric.md#volumetric-led)
 * [DIY](volumetric.md#undefined)
 
-## Volumetric Displays (Mechanical/Persistence of Vision) <a href="#id-2929" id="id-2929"></a>
+## Volumetric Displays (Mechanical/Swept Volume/Persistence of Vision) <a href="#id-2929" id="id-2929"></a>
 
 
 
 {% embed url="https://www.youtube.com/watch?v=I7vgha_N5s8" %}
-viSio Volumetric Swept Volume Display — [Source](https://www.youtube.com/watch?v=I7vgha\_N5s8)
+viSio Volumetric Swept Volume Display by[ Max Mali](https://www.maxmali.com/visio/)— [Source](https://www.youtube.com/watch?v=I7vgha\_N5s8)
 {% endembed %}
 
 With [Volumetric Displays](https://en.wikipedia.org/wiki/Volumetric\_display), there are a couple different flavors, and in this section we’ll cover displays that work with the principle of persistence of vision, and are also known as swept volume displays. Volumetric Displays have been discussed in science fiction for decades and have been researched extensively since the 1960’s. [Here](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5213672) is a 1969 paper from Bell Labs on a technique that uses a loudspeaker to vibrate a reflective mylar sheet in sync with a CRT to make an image volume.
@@ -33,7 +33,9 @@ _“This computation is performed on a high-end NVIDIA GPU within the Volume Ren
 
 ![Perspecta Diagram — Source](https://miro.medium.com/max/636/1\*tdOOqzg\_3jznksOmCTjxJg.jpeg)
 
-A more recent version of this type of display is the [Voxon VX1](https://voxon.co/products/) ($9800USD). Their former product was the [Voxiebox](https://www.youtube.com/watch?v=hi1UiGr6Iow). These displays use a high speed scientific projector and a rear projection platform that is moved up and down extremely quickly. The movement of the platform, the refresh rate of the projector and the content that is being drawn are all synced together by software. As the platform moves, a different slice of a 3D image is projected. As these slices are projected, the viewer’s brain assembles them into a persistent volumetric image.
+### Voxon Photonics
+
+A more recent version of this type of display is the [Voxon VX1](https://voxon.co/products/) by the Australian company [Voxon Photonics](https://voxon.co). Their former product was the [Voxiebox](https://www.youtube.com/watch?v=hi1UiGr6Iow). These displays use a high speed scientific projector and a rear projection platform that is moved up and down extremely quickly. The movement of the platform, the refresh rate of the projector and the content that is being drawn are all synced together by software. As the platform moves, a different slice of a 3D image is projected. As these slices are projected, the viewer’s brain assembles them into a persistent volumetric image. Each "pixel" on the display would be refered to as a voxel or volumetric pixel.
 
 {% embed url="https://www.youtube.com/watch?v=lQvkn9-ghhs" %}
 Voxon VX1
@@ -45,7 +47,9 @@ The Z axis resolution of the Voxon display is primarily limited by the frame rat
 
 Perceptually, the Voxon style of display is suited to some particular visual aesthetics — it is better at showing certain types of graphics than others. The projected light is additive on each slice, so while one surface appears solid, it also combines with the light behind it — this is similar to the issues faced by volumetric projection in the other section. This makes very dense imagery move towards the white end of the spectrum as different slices add together for the viewer. Vector style imagery with points and lines tend to be more successful ways to represent solid shapes.
 
-Another more articially focused example of a mechanical volumetric display is Benjamin Muzzin’s piece [Full Turn](https://vimeo.com/74735651). Benjamin took 2 LCD panels, stuck them back to back and spun them at very high speeds. The power and video signals were passed in using a specially designed slip ring. The bottom ring is fixed and has one end of a cable attached to it. The top layer spins with the LCDs and maintains electrical contact via metal brushes that run in circular channels. As the LCD spins faster than the refresh rate of the screen, it allows it to render volumetric images that move and shift. In comparison to the Voxiebox, this particular implementation presents a different challenge when trying to form coherent 3D images because of the radial motion as opposed to lateral motion.
+### Other Volumetric approaches:
+
+Another more artfully focused example of a mechanical volumetric display is [Benjamin Muzzin](https://www.benjaminmuzzin.ch/work/full-turn)’s piece [Full Turn](https://vimeo.com/74735651). Benjamin took 2 LCD panels, stuck them back to back and spun them at very high speeds. The power and video signals were passed in using a specially designed slip ring. The bottom ring is fixed and has one end of a cable attached to it. The top layer spins with the LCDs and maintains electrical contact via metal brushes that run in circular channels. As the LCD spins faster than the refresh rate of the screen, it allows it to render volumetric images that move and shift. In comparison to the Voxiebox, this particular implementation presents a different challenge when trying to form coherent 3D images because of the radial motion as opposed to lateral motion. The primary limitation on this sort of display would be the refresh rate of the LCD. LCD's tend to currently be in the 60-240hz range, and this project likely used a 60hz display, so its ability to flash and show more precise aspects of spun visuals would be a bit more challenging.
 
 {% embed url="https://vimeo.com/74735651" %}
 [https://vimeo.com/74735651](https://vimeo.com/74735651)
@@ -55,7 +59,7 @@ Other Swept Volume Displays
 
 * [USC Rotating Display](https://www.youtube.com/watch?v=8gvPS1m40gw\&t=55s)
 * [Mini Swept Volume display](https://youtu.be/HKpBhE7QVAI?si=4uf6Si9HyYOtIBYa)
-* DIY [Volumetric display](https://www.youtube.com/watch?v=V53ICnJzi94) that utilizes 3D printed parts and a Raspberry Pi
+* DIY Swept Volume [Volumetric display](https://www.youtube.com/watch?v=V53ICnJzi94) from "Ancient James" in New Zealand that utilizes 3D printed parts and a Raspberry Pi to render a real time 3D scene
 
 ## Volumetric Displays (Multiple Layered Screens) <a href="#c28e" id="c28e"></a>
 
@@ -89,7 +93,7 @@ Getting a video signal to each display is another technical challenge, depending
 
 There are some versions of layered screens or display volumes that don’t stack multiple LCDs but combine them with things like layered [Pepper’s Ghost](https://vimeo.com/110670658), multiple projections on scrims, [transparent acrylic](http://blairneal.com/portfolio\_page/crayolascope/), or LED cubes.
 
-Around 2016, [Looking Glass Factory](https://lookingglassfactory.com/) developed [Volume](https://www.youtube.com/watch?v=Jv\_OEY2P8MA) which was poised to be an affordable multiplane display. It achieved its effect by means of a projector and about 12 layers of angled material that catches a small sliver of the projector’s raster. They used a custom plugin for Unity that allows you to drop a 3D scene into their renderer and have it slice it up appropriately for their volumetric display. Eventually the Volume was discontinued for their higher quality Looking Glass Portrait that uses a specialized [light field](light-field-displays.md) approach.
+Around 2016, [Looking Glass Factory](https://lookingglassfactory.com/) developed [Volume](https://www.youtube.com/watch?v=Jv\_OEY2P8MA) which was poised to be an affordable multiplane display. It achieved its effect by means of a projector and about 12 layers of angled material that catches a small sliver of the projector’s raster. They used a custom plugin for Unity that allows you to drop a 3D scene into their renderer and have it slice it up appropriately for their volumetric display. Eventually the Volume was discontinued for their newer models that utilize [autostereoscopic](lenticular-and-multiview-displays.md) lenticular displays.
 
 ### Volumetric LED
 

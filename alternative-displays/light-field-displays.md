@@ -25,7 +25,7 @@ They are incredibly impressive displays that can promise true depth and making a
 [https://www.lightfieldlab.com/press-release-oct-2021](https://www.lightfieldlab.com/press-release-oct-2021)
 {% endembed %}
 
-Light Field Labs announced their Solidlight display in 2021. A commercial product or a demo that isn't hidden behind other material, has not yet appeared, but they do claim the ability to tile multiple units together so that very large displays can be created. The display they will offer will be approximately 28" as a single unit. Similar to other displays on this list, they also have a custom software rendering pipeline called WaveTracer so that 3D scenes can be ported and rendered on their display.
+Light Field Labs announced their Solidlight display in 2021. A commercial product or a demo that isn't hidden behind other material, has not yet appeared, but they do claim the ability to tile multiple units together so that very large displays can be created. The display they claim they will offer will be approximately 28" as a single unit. Similar to other displays on this list, they also have a custom software rendering pipeline called WaveTracer so that 3D scenes from traditional 3D tools and game engines can be ported and rendered on their display.
 
 Here is the [closest to a more complete description](https://www.ibc.org/features/the-holodeck-emerges-into-the-light/8357.article) of how the technology works:
 
@@ -41,7 +41,7 @@ Here is the [closest to a more complete description](https://www.ibc.org/feature
 >
 > Since it is modular and bezel-less, these panels can be combined to form video walls of any size with configurations exceeding hundreds of billions of pixels.&#x20;
 
-To put 2.5 Billion pixels in context: a standard 4K display is 3840x2160 which comes out to 8,294,400 pixels, and an 8K display is 33,177,600 pixels. So packing 2.5 billion pixels into a 28" panel (if that is truly what they are doing) is an incredibly dense display.
+To put 2.5 Billion pixels in context: a standard 4K display is 3840x2160 which comes out to 8,294,400 pixels, and an 8K display is 33,177,600 pixels. So packing 10 billion pixels into a square meter of panels (if that is truly what they are doing) is an incredibly dense display.
 
 ### Avalon Holographics
 

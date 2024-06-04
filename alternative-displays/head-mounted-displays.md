@@ -26,7 +26,7 @@ See also:
 
 ### SWave Photonics
 
-[Swave Photonics](https://swave.io) - they have a small holographic chip that they hope can be utilized in AR glasses and other areas for creating true holographic still and dynamic images
+[Swave Photonics](https://swave.io) - they have a small holographic chip that they hope can be utilized in AR glasses/Spatial computing devices and other areas for creating true holographic still and dynamic images
 
 ### VividQ
 
