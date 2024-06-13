@@ -9,6 +9,7 @@
 * Parallel Reality Display
 * Stackable microLED
 * Phases Mirror Display
+* Optical Trap Display
 * Robotics and Displays
 
 ### Light Leaks
@@ -58,6 +59,11 @@ This piece really strays between lighting element and display for me, but I thin
 {% embed url="https://vimeo.com/207143053" %}
 Phases by Vincent Houze and AV\&C
 {% endembed %}
+
+### Optical Trap Display
+
+SImilar to some of the other listed experiments like Aerial Burton, Femto Fairies and acoustic levitation, an optical trap display uses a complex optical stack to essentially illuminate a particle in air. This has been researched by Daniel Smalley at Brigham Young University.\
+More info at these links: [Link 1](https://expmag.com/2021/10/star-wars-is-44-years-old-why-dont-we-have-princess-leia-style-holograms-yet/) [Link 2 (Whitepaper)](https://www.nature.com/articles/nature25176) [Video](https://www.youtube.com/watch?v=qUSiw87mQck)
 
 ### Robotics and Displays
 
